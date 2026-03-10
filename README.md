@@ -2,14 +2,15 @@ Face Recognition Project 🧠📸
 This project implements Face Recognition using Python with libraries like TensorFlow, OpenCV, and more. The notebook walks through a complete pipeline, from installing dependencies to performing face detection and recognition. It’s perfect for anyone looking to understand how to build a facial recognition system from scratch.
 
 📑 Table of Contents
-# Project Overview
-# Installation
-# Usage
-# Dependencies
-# Screenshots
-# Contributing
-# License
-# Project Overview
+. Project Overview
+. Installation
+. Usage
+. Dependencies
+. Screenshots
+. Contributing
+. License
+
+Project Overview
 Face recognition is one of the most popular computer vision tasks with a wide range of applications. This project demonstrates the following:
 
 Detection of faces from images or live webcam feed.
